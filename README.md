@@ -18,6 +18,12 @@ Un projet de conseils touristiques pour aider les gens à organiser leurs voyage
 - CSS3
 - JavaScript
 
+### Technos
+
+- Node.js
+- Express.js
+- EJS
+
 ### Outils
 
 - Visual Studio Code
