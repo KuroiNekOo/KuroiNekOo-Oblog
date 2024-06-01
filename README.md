@@ -8,7 +8,7 @@
 
 ## Présentation
 
-Un projet de conseils touristiques pour aider les gens à organiser leurs voyages. On y trouvera des avis, des guides, des bons plans sur les destinations les plus recherchées, les restaurants les plus fins, les hôtels les plus luxueux, etc.
+Une petite plateforme pour pouvoir partager des news avec le monde entier. Un blog quoi.
 
 ## Stack technique
 
